@@ -43,11 +43,11 @@ O projeto está organizado da seguinte forma para manter o código-fonte separad
 ### Passos para Compilação
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
+    git clone [https://github.com/Lucas-Conceicao/movie-catalog-in-c.git](https://github.com/Lucas-Conceicao/movie-catalog-in-c.git)
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
-    cd nome-do-seu-repositorio
+    cd movie-catalog-in-c
     ```
 3.  Compile os arquivos-fonte. O executável será criado na pasta raiz do projeto.
     ```bash
